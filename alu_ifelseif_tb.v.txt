@@ -5,8 +5,9 @@ reg [2:0]f;
 wire [31:0]y;
 alu_ifelseif dut(.y(y),.a(a),.b(b),.f(f)); 
 initial
-begin a=32'h00000000; 
-b=32'h00110110; 
+begin 
+a=32'h00000000; 
+b=32'h00110001; 
 #10 f=3'b000;
 #10 f=3'b001;
 #10 f=3'b010;
