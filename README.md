@@ -247,6 +247,8 @@ Outputs: Elaborate database updated in the mapped library if successful, generat
 5.It also establishes net connectivity and prepares all of this for simulation
 
 After elaboration, the file will come under snapshot. Select the test bench and simulate it.
+<img width="1919" height="1021" alt="image" src="https://github.com/user-attachments/assets/cb512633-5923-41b0-bb23-b95d656f34ce" />
+
 
 #### Fig 5: Elaboration Launch Option
 
