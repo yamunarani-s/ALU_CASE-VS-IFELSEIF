@@ -162,6 +162,7 @@ To Launch the Simulation tool
 
 or
 
+
 •linux:/> nclaunch& // On subsequent calls to NCVERILOG
 
 It will invoke the nclaunch window for functional simulation. We can compile, elaborate and simulate it using Multiple Steps.
