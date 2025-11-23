@@ -290,10 +290,14 @@ The Liberty files are present in the library path,
 
 • Genus Script file with .tcl file Extension commands are executed one by one to synthesize the netlist. Or use source run.tcl command in the terminal window to view the netlist, and a log file will be created in the working folder.
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/ed7264e5-81f6-4800-b2b2-303a6a4db0fd" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/d1b31a72-d44b-40a6-baf7-899df2eb67ab" />
+
 
 
 #### Fig 8: Synthesis RTL Schematic using case and ifelseif construct
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/d1b31a72-d44b-40a6-baf7-899df2eb67ab" />
+<img width="1576" height="809" alt="image" src="https://github.com/user-attachments/assets/e608c24b-7760-431a-a34c-ad51938781e7" />
+<img width="1589" height="787" alt="image" src="https://github.com/user-attachments/assets/8a631f6a-638b-48ae-a0eb-06c0242fe973" />
+
 
 
 #### Fig 9: Area report of case and ifelseif construct
